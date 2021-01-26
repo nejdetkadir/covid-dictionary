@@ -9,14 +9,6 @@ class DictList extends StatefulWidget {
 }
 
 class _DictList extends State<DictList> {
-  Future<List<Dictionary>> getData() async {
-    var data =
-        await DefaultAssetBundle.of(context).loadString("assets/data.json");
-    return (json.decode(data) as List)
-        .map((data) => Dictionary.fromJsonMap(data))
-        .toList();
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -25,7 +17,7 @@ class _DictList extends State<DictList> {
       ),
       body: Container(
         child: FutureBuilder(
-          future: getData(),
+          future: getData(context),
           builder: (context, snapshot) {
             if (snapshot.hasData) {
               return ListView.builder(
@@ -64,4 +56,12 @@ class _DictList extends State<DictList> {
       math.Random().nextInt(255),
     );
   }
+}
+
+Future<List<Dictionary>> getData(BuildContext context) async {
+  var data =
+      await DefaultAssetBundle.of(context).loadString("assets/data.json");
+  return (json.decode(data) as List)
+      .map((data) => Dictionary.fromJsonMap(data))
+      .toList();
 }
