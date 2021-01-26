@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:covid_dictionary/model/dictionary.dart';
 import 'dart:math' as math;
+import 'dart:convert';
 
 class DictList extends StatefulWidget {
   @override
@@ -7,6 +9,14 @@ class DictList extends StatefulWidget {
 }
 
 class _DictList extends State<DictList> {
+  Future<List<Dictionary>> getData() async {
+    var data =
+        await DefaultAssetBundle.of(context).loadString("assets/data.json");
+    return (json.decode(data) as List)
+        .map((data) => Dictionary.fromJsonMap(data))
+        .toList();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -14,22 +24,32 @@ class _DictList extends State<DictList> {
         title: Text("COVID-19 SÖZLÜĞÜ"),
       ),
       body: Container(
-        padding: EdgeInsets.all(5),
-        child: ListView.builder(
-          itemCount: 20,
-          itemBuilder: (context, index) {
-            return Card(
-              elevation: 8,
-              child: ListTile(
-                leading: CircleAvatar(
-                  backgroundColor: randomColor(),
-                  child: Text("$index"),
-                ),
-                title: Text("key $index"),
-                trailing: Icon(Icons.arrow_forward_ios_outlined),
-                onTap: () => {Navigator.pushNamed(context, "/details/$index")},
-              ),
-            );
+        child: FutureBuilder(
+          future: getData(),
+          builder: (context, snapshot) {
+            if (snapshot.hasData) {
+              return ListView.builder(
+                itemCount: snapshot.data.length,
+                itemBuilder: (context, index) {
+                  return Card(
+                    child: ListTile(
+                      leading: CircleAvatar(
+                        backgroundColor: randomColor(),
+                        child: Text("${snapshot.data[index].key[0]}"),
+                      ),
+                      title: Text("${snapshot.data[index].key}"),
+                      trailing: Icon(Icons.arrow_forward_ios_outlined),
+                      onTap: () =>
+                          {Navigator.pushNamed(context, "/details/$index")},
+                    ),
+                  );
+                },
+              );
+            } else {
+              return Center(
+                child: CircularProgressIndicator(),
+              );
+            }
           },
         ),
       ),

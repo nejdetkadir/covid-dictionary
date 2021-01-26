@@ -1,0 +1,330 @@
+[
+ {
+  "key": "Antijen",
+  "value": "Vücuda girdiğinde veya aşılama yoluyla verildiğinde bağışıklık reaksiyonlarının başlamasına sebep olan molekül. Aşı bir antijendir. Antijen vücuda girdiğinde ona karşı antikor üretilir."
+ },
+ {
+  "key": "Antikor",
+  "value": "Kişinin vücuduna giren antijene yanıt olarak bağışıklık sistemi tarafından üretilen madde. İmmünglobulin olarak da adlandırılır. Antikor testi kişinin hastalığa bağışıklık durumunu saptamak için yapılır."
+ },
+ {
+  "key": "Antisepsi",
+  "value": "Hastalık oluşturabilen canlı mikroorganizmaları öldürmek veya üremesini durdurmak amacıyla vücut yüzeyine kimyasal madde uygulanması. Antisepsi için kullanılan kimyasal maddelere antiseptik denir. COVID-19 pandemisinde su ve sabuna ulaşılamadığı durumlarda alkol içerikli el antiseptikleri ve antiseptik özelliği olan kolonyalar yaygın olarak kullanılmaktadır."
+ },
+ {
+  "key": "Asemptomatik kişi",
+  "value": "Belli bir hastalığa neden olan mikrobu taşıyan ancak hastalığa ait belirti göstermeyen kişi."
+ },
+ {
+  "key": "Aşı",
+  "value": "Bir enfeksiyona karşı bağışıklık sağlamak için hazırlanmış, vücuda çeşitli yollarla verilen biyolojik ürün. Aşılar hastalığı geçirmeden o hastalığa karşı bağışıklanmayı sağlar. Aşılamanın amacı hastalığı ve hastalıktan dolayı oluşabilecek ölüm ve engellilik durumunu önlemektir."
+ },
+ {
+  "key": "Atak hızı",
+  "value": "Toplumda hastalığın düzeyini gösteren ölçütlerden biri. Belirli bir süre içinde saptanan bulaşıcı hastalık vaka sayısının o hastalığa duyarlı kişi sayısına (risk altındaki toplam nüfus) bölünmesi ile elde edilir. Bir çeşit insidans hızıdır. COVID-19 ilk ortaya çıktığında risk altındaki nüfus toplumun tamamı iken yeni tanı alan vakaların günlük takibi yapılarak hastalığın toplumdaki atak hızı değerlendirilebilmektedir."
+ },
+ {
+  "key": "Ateş",
+  "value": "Vücut ısısının normal değerlerin üzerine çıkması. Normal vücut ısısı koltuk altından ölçüldüğünde 36,5-37,0 kulaktan ölçüldüğünde 35,7-37,5 dir. Yüksek ateş COVID-19’da görülen klinik bulgulardan biridir. Havaalanlarında termal kameralarla, toplu alanlarda ve iş yerlerinde düzenli ateş ölçümüyle olası vakalara karşı önlem alınmaktadır."
+ },
+ {
+  "key": "Bağışık",
+  "value": "Belirli bir hastalık etkenine karşı direnç kazanmış olan; immün. Bebekler bazı hastalıklara karşı bağışık doğar, çünkü doğumdan önce anneden bebeğe antikorlar geçer."
+ },
+ {
+  "key": "Bağışıklık",
+  "value": "Belirli bir hastalık etkenine karşı vücudun direnci; immünite. Enfeksiyonlara karşı direnç sağlayan molekül, hücre ve dokular topluluğuna “bağışıklık sistemi” denir. Hastalığı geçirmek ve aşı olmakla aktif bağışıklık, aktif bağışıklığın sağlanamadığı durumlarda vücuda dışarıdan antikor verilmesiyle pasif bağışıklık sağlanır."
+ },
+ {
+  "key": "Bildirim",
+  "value": "Tanı koyan hekimlerin şüpheli, olası veya kesin vakaları belirlenen yolla yetkili mercilere bildirmesi işlemi. Bulaşıcı hastalıkların büyük bir kısmının bildirimi zorunludur. COVID-19 da bu hastalıklardan biridir."
+ },
+ {
+  "key": "Bilgisayarlı tomografi (BT)",
+  "value": "X ışınları aracılığıyla ve bilgisayar yardımıyla organ veya dokuların çoklu kesit görüntülerinin alınmasına dayanan radyolojik teknik. Organ veya dokunun üç boyutlu olarak incelenebilmesine olanak sağlar. Toraks (göğüs) bilgisayarlı tomografisi, COVID-19’un neden olduğu akciğer hasarını tespit etmek için kullanılmaktadır."
+ },
+ {
+  "key": "Birincil vaka",
+  "value": "Bir hastalığın toplumda yayılmasına yol açan ilk vaka. İndeks vaka da denir. İlk vakaya yol açan kişiyle temas eden veya ilişkili olup hastalananlar ikincil vaka olarak adlandırılır. COVID-19’da birincil vaka ülkemizde 11.03.2020 tarihinde tespit edilmiştir."
+ },
+ {
+  "key": "Bulaşıcı hastalık",
+  "value": "Bir enfeksiyon etkeninin veya onun toksik (zararlı-zehirli) ürünlerinin, bir kaynaktan duyarlı kişiye doğrudan veya dolaylı olarak geçmesiyle oluşan hastalık. COVID-19 insandan insana geçen bulaşıcı bir hastalıktır."
+ },
+ {
+  "key": "Bulaşma",
+  "value": "Bir enfeksiyon etkeninin bulaşma yollarından biriyle konağa ulaşması. Enfeksiyon etkeninin kişiye bulaşmış olması o kişinin hasta olacağı anlamına gelmeyebilir. Kişi enfeksiyon etkenine karşı önceden aşılanmışsa etken bulaştığında kişinin bağışıklık sistemi antikor yanıtı oluşturur."
+ },
+ {
+  "key": "Bulaşma yolları",
+  "value": "Enfeksiyon etkeninin bir kaynaktan duyarlı kişiye (konağa) bulaşma yolu. Enfeksiyon etkeni doğrudan veya dolaylı yolla bulaşabilir. COVID-19 öksürme, hapşırma, konuşmayla yayılan damlacıkların solunması veya virüs bulunan yüzeylere dokunduktan sonra ellerin burun, ağız ve göze götürülmesi yoluyla bulaşır."
+ },
+ {
+  "key": "CoV / Coronavirus / Koronavirüs",
+  "value": "Tek zincirli RNA’ya sahip, zarflı, yüzeyinde protein çıkıntıları olan büyük virüs ailesi. Koronavirüsler (CoV), hafif ve orta derecede şiddetli solunum yolu hastalıkların yanı sıra MERS (Orta Doğu Solunum Sendromu), SARS (Şiddetli Akut Solunum Sendromu) ve COVID-19 (Yeni Koronavirüs Hastalığı) gibi şiddetli seyreden hastalıklardan da sorumludur."
+ },
+ {
+  "key": "COVID-19 / KOVİD-19",
+  "value": "İlk olarak Çin’in Vuhan şehrinde 2019 yılı Aralık ayının sonlarında ortaya çıkan, bulaştığı kişilerde ateş, öksürük, nefes darlığı gibi belirtilere neden olan hastalık; Yeni Koronavirüs Hastalığı. COVID-19’a neden olan virüsün adı SARS-CoV-2’dir."
+ },
+ {
+  "key": "Damlacık yoluyla bulaşma",
+  "value": "Öksürme, hapşırma veya konuşma sırasında ortaya çıkan ve patojen etken taşıyan vücut sıvılarının (damlacık) hasta kişiden etrafta bulunan başka kişiye/kişilere ulaşması. COVID-19 gibi fiziksel temasa gerek olmadan damlacık yoluyla bulaşan hastalıklar hızlı ve kolay yayılır."
+ },
+ {
+  "key": "Doğrudan bulaşma",
+  "value": "Duyarlı kişinin, enfekte kişi veya kontamine vücut sıvıları ile doğrudan teması sonucu gerçekleşen bulaşma. Bu bulaşma şeklinde hiçbir ara bulaşma yolu yoktur."
+ },
+ {
+  "key": "Dolaylı bulaşma",
+  "value": "Hastalık etkeninin konakçıya bir aracı vasıtasıyla bulaşması. Bu aracılar vektörler, hava, su, gıda ve cerrahi aletler olabilir. Gıda kaynaklı zehirlenmeler ve sivrisinekler aracılığıyla bulaşan sıtma dolaylı bulaşmaya örnektir."
+ },
+ {
+  "key": "Duyarlı kişi",
+  "value": "Bir etkenle enfekte olma (bir bulaşıcı hastalığı kapma) olasılığı bulunan kişi. COVID-19 için belirli bir yaş grubu değil, hastalığa bağışık olmayan herkes duyarlı kişidir."
+ },
+ {
+  "key": "Ekstübe etmek",
+  "value": "Solunum yetmezliği durumunda özel cihazlarla solunum desteği sağlamak için nefes borusuna takılan tüpü (yapay solunum borusunu) çıkarma işlemi. Entübasyon işlemini sonlandırma. Entübasyon Hastanın solunum yetmezliğine yol açan durum ortadan kalkar veya hafifler, hasta kendi başına yeterli nefes alır hale gelirse ekstübe edilebilir; yani takılmış olan tüp çıkarılabilir."
+ },
+ {
+  "key": "El dezenfeksiyonu",
+  "value": "Antiseptik özelliklere sahip madde kullanarak elleri temizleme işlemi. Bu işlemde antiseptik madde avuç içine 3 ila 5 ml arası alınır, eller 30 saniye ila 1 dakika arası süre boyunca birbirine sürtülür ve ovuşturulur. Elleri su ve sabunla yıkamak, su ve sabunun olmadığı durumlarda alkol içerikli el antiseptiğiyle elleri temizlemek COVID-19’a yönelik en etkili önlemlerdendir."
+ },
+ {
+  "key": "El temizliği",
+  "value": "Ellerin en az 20 saniye boyunca sabun ve suyla yıkanması, sabun ve suyun olmadığı durumlarda alkol içerikli el antiseptiği ile temizlenmesi. El temizliği, COVID-19’dan korunmak için en etkili yöntemlerden biridir."
+ },
+ {
+  "key": "El yıkama tekniği",
+  "value": "Elleri temizlemek amacıyla uygulanan doğru teknik. Şu aşamalardan oluşur: 1. El yıkama öncesinde yüzük, saat gibi aksesuarlar çıkarılır. 2. Akan su altında eller ıslatılır. 3. Bilekler, avuç içi, ellerin sırt ve parmak araları ile tırnakların kenar ve uçları sabun ile köpürtülerek en az 20 saniye süreyle kuvvetlice ovuşturulur. 4. Eller su altında iyice durulanır. 5. Eller bileklerden başlayarak kâğıt havlu ile kurulanır. 6. Aynı kâğıt havlu ile musluk kapatılır. Elleri temizlerken antibakteriyel içeren sabun kullanmaya gerek yoktur, normal sabun yeterlidir. Ellerin su ve sabunla yeterli sürede, doğru teknikle (elin her tarafına sabun ve su değecek şekilde) yıkanması korunmayı artırmak için önemlidir."
+ },
+ {
+  "key": "Eliminasyon",
+  "value": "Bir enfeksiyon etkeninin neden olduğu hastalığın bölgesel olarak ortadan kalkması. Enfeksiyon etkeni yeryüzünden yok edilemese bile neden olduğu hastalığın görülmemesinin sağlanması. Son yıllarda vaka artışı görülen kızamık hastalığını elimine etmek için pek çok ülkede kızamık eliminasyon programları uygulanmaktadır."
+ },
+ {
+  "key": "Endemi",
+  "value": "Bir enfeksiyon etkeninin veya hastalığın belirli bir coğrafyada veya toplulukta sürekli görülmesi durumu. Tüberküloz (verem) ülkemizde endemik olarak görülen hastalıklardan biridir."
+ },
+ {
+  "key": "Enfeksiyon",
+  "value": "Bir bulaşıcı hastalık etkeninin çeşitli yollardan vücuda girerek çoğalması. Enfeksiyon durumunda hastalık belirtilerinin ortaya çıkması gerekmez. Enfeksiyonla birlikte hastalık belirtileri de meydana gelirse enfeksiyon hastalığından söz edilir."
+ },
+ {
+  "key": "Enfekte kişi",
+  "value": "Enfeksiyon etkenini vücudunda bulunduran kişi. Enfekte kişiler her zaman hastalığa ilişkin semptom göstermeyebilir, fakat bulaştırıcı olabilirler."
+ },
+ {
+  "key": "Entübasyon",
+  "value": "Solunum yetmezliği durumunda özel cihazlarla solunum desteği sağlamak için nefes borusuna tüp (yapay solunum borusu) takma işlemi. Acil durumlarda veya yoğun bakım ünitelerinde solunum yetmezliğindeki hastaları entübe etmek ve solunum cihazına bağlamak çoğu zaman hayati öneme sahiptir. Ayrıca pek çok ameliyatta kas gevşetici ilaç vermek ve hastayı uyutmak gerektiği için ameliyat süresince hastanın solunum cihazına bağlanması ve bunun için entübe edilmesi gerekir. "
+ },
+ {
+  "key": "Entübe etmek",
+  "value": "Entübasyon işlemi yapmak."
+ },
+ {
+  "key": "Epidemiyoloji",
+  "value": "Sağlıkla ilgili olayların görülme sıklığı, dağılımı ve nedenlerini inceleyen bilim dalı. Kanser epidemiyolojisi, bulaşıcı hastalıklar epidemiyolojisi, kronik hastalıklar epidemiyolojisi, çevre epidemiyolojisi, beslenme epidemiyolojisi gibi alt dallar mevcuttur."
+ },
+ {
+  "key": "Eradikasyon",
+  "value": "Bir enfeksiyon etkeninin dünya genelinde kalıcı olarak sona ermesi. Eradikasyon mutlak bir durumdur; hastalığın etkeni ile birlikte yeryüzünden tamamen yok edilmesidir. Tarih boyunca milyonlarca ölüme sebep olan çiçek hastalığı, aşı ve diğer mücadele yöntemleri sayesinde 1980 yılında eradike edilmiştir."
+ },
+ {
+  "key": "Ev izolasyonu",
+  "value": "Kendi kendine karantina"
+ },
+ {
+  "key": "Fiziki mesafe / Sosyal mesafe",
+  "value": "Damlacık yoluyla bulaşan enfeksiyona yakalanmamak veya enfeksiyon bulaştırmamak için iki kişinin arasında bulunması gereken en az 1,5 metrelik mesafe. Fiziki mesafenin amacı, enfekte kişiler ile enfekte olmayan kişiler arasındaki temas olasılığını azaltarak bulaşmayı önlemektir. Fiziki mesafeye dikkat edilmesi COVID-19’dan etkili korunma yöntemlerinden biridir. Fiziki mesafe, sosyal mesafe kavramının bir bileşeni olarak ele alınmakta, zaman zaman iki kavram eş anlamlı kullanılabilmektedir."
+ },
+ {
+  "key": "İmmün",
+  "value": "Bağışık"
+ },
+ {
+  "key": "İmmünite",
+  "value": "Bağışıklık"
+ },
+ {
+  "key": "İnkübasyon süresi",
+  "value": "Bir enfeksiyon etkeninin vücuda girişinden hastalık belirtilerinin ortaya çıkışına kadar geçen süre; kuluçka süresi. COVID-19 etkeni olan SARS-CoV-2’nin kuluçka süresi mevcut verilere göre 2 ila 14 gün arasındadır."
+ },
+ {
+  "key": "İnsidans",
+  "value": "Risk altındaki sağlam kişilerin belirli sürede, belirli bir hastalığa yakalanma olasılığını gösteren ölçüt. Belirli bir toplumda belirli bir sürede saptanan yeni vaka sayısının o toplumun yıl ortasındaki nüfusuna veya risk altındaki kişi sayısına bölünmesi ile elde edilir. Diğer faktörler sabit olduğunda bir hastalığa karşı toplumdaki bağışık birey sayısının artması o hastalığın insidansının azalmasını sağlar. "
+ },
+ {
+  "key": "İzolasyon",
+  "value": "Bir hastalığın yayılmasını önlemek için hasta insanların sağlıklı insanlardan ayrı bir yerde tutulması; tecrit. İzolasyon, salgın hastalıkların yönetiminde çok eski dönemlerden itibaren kullanılagelen en etkili yöntemlerdendir. Ülkemizde COVID-19 hastalarının iyileşene kadar izolasyon kurallarına uyması zorunludur."
+},
+ {
+  "key": "Karantina",
+  "value": "Bulaşıcı bir hastalığın yaygın olduğu bir yer veya bölgeden gelen kişi, gemi, mal veya hayvanların geçici olarak bir yerde tutulup gözlemlenmesi biçiminde uygulanan sağlık önlemi. Karantina, bulaşıcı hastalık salgınlarının kontrol altına alınmasında en eski ve en etkili yöntemlerden biridir. Bu uygulama insanların belirlenen bir bölgeye giriş çıkışını kısıtlayarak, gönüllü veya zorunlu olarak yapılabilir. Sadece belirli bölge için değil bir meslek grubu için de karantina uygulanabilir."
+ },
+ {
+  "key": "Kaynak",
+  "value": "Bir enfeksiyon etkenini konakçıya ileten gıda, nesne, hayvan veya insan. Bir bulaşıcı hastalığın kaynağını saptamak ve bu kaynağa yönelik önlemler almak o bulaşıcı hastalığın kontrol altına alınmasında oldukça önemlidir."
+ },
+ {
+  "key": "Kendi kendine karantina",
+  "value": "Etkeni bulaştırma riski olan kişinin olası bulaşmayı engellemek için kendini belirli bir süre insanlarla temastan uzak tutması. Kendi kendine karantina halk sağlığını tehdit eden durumlarda gönüllülük ve sorumluluk bilinciyle yapılır. Yurt dışında hastalığın yaygın olarak görüldüğü yerlere seyahat etmiş kişilere seyahat sonrasında kendi kendine karantina uygulaması önerilmektedir."
+ },
+ {
+  "key": "Konak",
+  "value": "Hastalık etkeninin, içinde veya üzerinde yaşadığı organizma; konakçı. Konağın yaşı, cinsiyeti, genetiği, beslenme ve sağlık durumu gibi birçok faktör hastalığın oluşumunda ve ilerlemesinde etkilidir. COVID-19’a neden olan virüsün (SARS-CoV-2) bulaştığı kişi konaktır."
+ },
+ {
+  "key": "Kontamine",
+  "value": "Enfeksiyon etkeninin vücut yüzeyi, eşyalar veya su, gıda gibi maddeler üzerinde bulunması. SARS-CoV-2 ile kontamine olmuş yüzeylere dokunduktan sonra elleri ağız, burun veya göze götürmek COVID-19’un bulaşma yollarından biridir. Asansör düğmeleri, kapı kolları, armatürler gibi kontamine olma ihtimali yüksek yüzeyler sık sık temizlenmelidir."
+ },
+ {
+  "key": "Kontrollü Sosyal Hayat",
+  "value": "Türkiye’de COVID-19 ile mücadelenin ikinci dönemi için belirlenen strateji. Bu stratejide vatandaşlardan tedbirli bir hayat tarzına geçmeleri istenir. Maske takmak, el hijyenini sağlamak ve 1,5 metrelik sosyal mesafe kuralına uymak stratejinin kurallarındandır."
+ },
+ {
+  "key": "Kümelenme",
+  "val,ue": "Belirli bir yer ve zaman diliminde vaka sayısının beklenenden fazla olması veya vaka sayısı beklenen kadar olsa bile benzer özellikte olay veya vakanın birikmesi. Çin’in Hubei eyaleti Vuhan şehrinde, 31 Aralık 2019’da nedeni bilinmeyen pnömoni vakaları bildirilmiş, vakaların Vuhan Güney Çin Deniz Ürünleri Şehir Pazarı çalışanlarında kümelenme olduğu belirtilmiştir."
+ },
+ {
+  "key": "Morbidite",
+  "value": "İyilik hali dışında olduğu düşünülen herhangi bir fiziksel veya psikolojik durum; hastalık. En sık kullanılan morbidite ölçütleri insidans ve prevalanstır."
+ },
+ {
+  "key": "Mortalite",
+  "value": "Ölüm; ölümlülük. Çoğunlukla tek kişi değil, topluluk için kullanılır. Mortalite hızı, bir hastalığa bağlı ölümlerin toplam nüfusa bölünmesiyle elde edilir."
+ },
+ {
+  "key": "Mutasyon",
+  "value": "Bir organizmanın veya virüsün genetik materyalinde meydana gelen kalıcı değişiklik. RNA virüslerinde DNA virüslerine oranla çok daha fazla mutasyon meydana gelir. SARS-CoV-2 bir RNA virüsüdür."
+ },
+ {
+  "key": "Normal sabun",
+  "value": "Antimikrobiyal madde içermeyen veya koruyucu olacak kadar antimikrobiyal madde içeren sabun. Katı veya sıvı olabilir. Elleri en az 20 saniye boyunca normal sabun ve suyla yıkamak COVID-19 için en etkili hijyen tedbirlerindendir."
+ },
+ {
+  "key": "Pandemi",
+  "value": "Bir hastalığın veya enfeksiyon etkeninin ülkelerde, kıtalarda, hatta tüm dünya gibi çok geniş bir alanda yayılım göstermesi. COVID-19, ülkemizde de ilk vakanın görüldüğü 11 Mart 2020 tarihinde Dünya Sağlık Örgütü (DSÖ) tarafından pandemi ilan edilmiştir."
+ },
+ {
+  "key": "Pandemi hastanesi",
+  "value": "Pandemiye neden olan hastalığı taşıyanların tedavisi için özel olarak görevlendirilmiş ve organize edilmiş yataklı sağlık kuruluşu. Ülkemizde COVID-19 salgınının erken döneminde pek çok hastane pandemi hastanesi olarak tanımlanmıştır. Böylece sağlık sisteminin tüm kaynaklarıyla pandemiye karşı hazırlıklı olunması amaçlanmıştır."
+ },
+ {
+  "key": "Patojenite",
+  "value": "Bir enfeksiyon etkeninin duyarlı konakta hastalık oluşturma yeteneği. Çiçek, kuduz, kızamık virüsleri patojenitesi yüksek virüslerdir."
+ },
+ {
+  "key": "PCR",
+  "value": "Dizilimi belli olan DNA veya RNA bölümlerinin çoğaltılması; polimeraz zincir reaksiyonu.İng. Polymerase Chain Reaction; “pi-si-ar” olarak okunur. COVID-19 etkeni olan SARS-CoV-2 virüsünün varlığına yönelik yapılan PCR testleri için burnun arkasından (nazofaringeal) ve/veya boğazın arkasından (orofaringeal) alınan sürüntüler kullanılır."
+ },
+ {
+  "key": "Pik / Zirve / Doruk",
+  "value": "algın sürecinde günlük vaka sayısının en yüksek değere ulaştığı nokta/gün. Sadece vaka sayısı için değil diğer parametreler için de kullanılabilir.İng. Peak Salgın pik noktasındayken tedaviye ihtiyaç duyan kişi sayısıyla mevcut sağlık sistemi kapasitesi değerlendirilebilir. Pik noktasında tedaviye ihtiyaç duyan hasta sayısı, ülkedeki yatak/yoğun bakım kapasitesinden fazlaysa bu hastaların bir kısmı sağlık hizmetinden mahrum kalabilir ve normal şartlarda önlenebilecek ölümler yaşanabilir."
+ },
+ {
+  "key": "Pnömoni",
+  "value": "Akciğer dokusunun iltihabı; zatürre.  Koronavirüs ailesinde yer alan virüsler, insanlarda özellikle soğuk algınlığı, pnömoni ve çeşitli solunum yolu enfeksiyonlarına neden olabilmektedir. COVID-19 pnömonisine SARS-CoV-2 neden olmaktadır."
+ },
+ {
+  "key": "Prevalans",
+  "value": "Belirli bir süre içinde bir hastalığın toplumda görülme sıklığını gösteren ölçüt. Belirli bir süre içindeki tüm eski ve yeni vakaların risk altındaki kişi sayısına bölünmesiyle hesaplanır.  Prevalans, sağlık sorununun toplumdaki büyüklüğü/sıklığı hakkında fikir verir."
+ },
+ {
+  "key": "Profilaksi",
+  "value": "Hastalıkların oluşumunu veya ilerlemesini önlemek için alınan -daha ziyade tıbbi- tedbirler. Profilaksi tedavi değildir; meydana gelmeden önce hastalığı önlemeye çalışmaktır."
+ },
+ {
+  "key": "R0 değeri",
+  "value": "Tek vakadan kaynaklanan yeni vakaların sayısı; hastalığın bulaşma katsayısı. Bir bölgede bir hastalık için R0 değeri 3 ise bir kişi hastalığı 3 kişiye bulaştırıyor demektir. "
+ },
+ {
+  "key": "Rt değeri",
+  "value": "Salgın devam ederken yapılan müdahaleler ile değişen R0 değerinin belirlenen zaman için değeri; “t” zamanında bulaşma katsayısı. Hesaplanan Rt değeri 1’in üzerindeyse salgın devam ediyor, 1’in altındaysa salgın kontrol altına alınıyor demektir."
+ },
+ {
+  "key": "Rezervuar",
+  "value": "Bulaşıcı bir etkenin yaşayabildiği, gelişebildiği veya çoğalabildiği insan, hayvan veya çevre. Rezervuarlar etkene göre değişiklik gösterir. Örneğin, tatlı su gölleri, evcil hayvanlar vb."
+ },
+ {
+  "key": "Risk faktörü",
+  "value": "Bir hastalığa yakalanma olasılığını artıran tüm durumlar. İleri yaş, sigara kullanımı, kronik hastalık varlığı COVID-19’un belirlenen risk faktörleri arasındadır."
+ },
+ {
+  "key": "Sağlık",
+  "value": "Sadece hastalık veya engellilik durumunun mevcut olmaması değil; fiziksel, ruhsal ve sosyal açıdan tam iyilik hali."
+ },
+ {
+  "key": "Saha İncelemesi / Filyasyon",
+  "value": "Bulaşıcı bir hastalık varlığında, hastalığı taşıyan kişinin temas ettiği herkesin o hastalık açısından taranması. Ülkemizde de sıkı bir şekilde uygulanan filyasyon çalışmaları sayesinde kaynak vakalar ve temaslıları tespit edilmekte, vakaların izolasyonu ve temaslı kişilerin karantinası sağlanmaktadır. Bu süreç COVID-19 ile mücadelede kritik öneme sahiptir."
+ },
+ {
+  "key": "Salgın",
+  "value": "Belirli bir alanda, belirli bir grup insan arasında, belirli bir süre boyunca beklenenden daha fazla vaka görülmesi; epidemi. Epidemi, bir topluluk veya bölgede görülen salgındır. Pandemi ise birçok ülkede, küresel düzeyde yaygın olarak görülen salgındır."
+ },
+ {
+  "key": "Salgın incelemesi",
+  "value": "Salgın olarak tanımlanmış bir olayın kaynağının, etkeninin, bulaşma yolunun bulunması, gerekli halk sağlığı önlemlerinin alınması ve ileride oluşabilecek benzer salgınların önlenmesi gibi amaçlara yönelik araştırma. Salgın incelemesi; salgının ne olduğuna karar vermek, tanının doğrulanması için bilgi toplamak, vaka tanımı yapmak, vakaları bulmak, uygun koruma ve kontrol önlemlerini almak, salgın raporu yazmak, raporu ilgililerle paylaşmak gibi basamaklardan oluşur."
+ },
+ {
+  "key": "Sanitasyon",
+  "value": "Bir çevresel ortamdaki mikroorganizma sayısının emniyetli bir seviyeye düşürülmesi. Yeterli düzeyde ve kalitede içme-kullanma suyunun şebeke üzerinden sağlanması, atık suların kanalizasyon şebekesi veya foseptik aracılığıyla toplanması, atık suyun arıtılarak alıcı ortama bırakılması, evsel ve her tür tehlikeli atığın insana ve çevreye olumsuz etkiler oluşturmayacak yöntemlerle toplanması ve bertaraf edilmesi sanitasyona örnek olarak verilebilir."
+ },
+ {
+  "key": "Semptom",
+  "value": "Vücuttaki olağan dışı bir hâl veya hastalığı yansıtan, hasta için belirgin olan durum; belirti. COVID-19’un yaygın semptomları yüksek ateş, öksürük ve nefes darlığıdır. Vakalarda baş ağrısı, boğaz ağrısı, burun akıntısı, kas ve eklem ağrıları, halsizlik, koku ve tat alma duyusu kaybı, ishal de görülebilmektedir. Bazı hastalarda hiç semptom görülmez."
+ },
+ {
+  "key": "Sepsis",
+  "value": "Bir enfeksiyona karşı vücudun verdiği abartılı yanıtın organlarda oluşturduğu ciddi fonksiyon bozukluğu. Vücutta enfeksiyona neden olan etkenin kana karışması, bağışıklık sisteminin bu etkene karşı büyük bir savunma tepkisi vermesiyle ortaya çıkar."
+ },
+ {
+  "key": "Sosyal mesafe",
+  "value": "Hastalık etkeninin bulaşmasının engellenmesi için kişilerin fiziksel olarak buluşmasını azaltması, bir arada bulunulan ortamlarda 1,5 metrelik fiziksel mesafenin korunması ve temasın azaltılmasını içeren tutum ve davranışlar.Bkz. Fiziksel mesafe Kalabalık ortamlardan uzak durmak, zorunlu olmayan buluşmalardan kaçınmak, başka kişilerle bir aradayken fiziksel mesafeyi korumak (el sıkışmamak, sarılmamak vb.), hasta hissedildiğinde evde kalmak gibi davranışlar sosyal mesafeye örnektir."
+ },
+ {
+  "key": "Sosyal müdahale",
+  "value": "Bir salgının yayılmasını yavaşlatmak veya etkisini azaltmak amacıyla kamu otoriteleri tarafından alınan kararlar doğrultusunda uygulanan kısıtlama ve düzenlemeler. Sokağa çıkma yasağı ve maske takma zorunluluğu sosyal müdahaleye örnektir. Özellikle aşısı, kesin tedavisi bulunmayan ve halk sağlığı açısından tehdit oluşturan bulaşıcı hastalıklarda sosyal müdahalelere uyum toplum sağlığının korunması için önemlidir."
+ },
+ {
+  "key": "Sporadik vaka",
+  "value": "Vakaların dağınık, tesadüfi ve genellikle nadir olarak görülmesi. Sporadik vakalar, şartlar uygun olursa bir salgının başlangıç vakası (birincil vaka) da olabilir. Sporadik vakalar belirli bir coğrafi veya sosyal kümelenme göstermezler. Sporadik vakanın erken tespit edilmesi etkenin başka kişilere bulaşmasını önler."
+ },
+ {
+  "key": "Süper bulaştırıcı / Süper yayıcı / Süper taşıyıcı",
+  "value": "Bir bulaşıcı hastalık etkenini duyarlı kişilere beklenenden çok daha fazla bulaştıran enfekte kişi. COVID-19 salgınında tüm dünyada süper bulaştırıcılar tek başlarına onlarca duyarlı kişiye virüs bulaştırarak salgının yayılımını hızlandırmışlardır."
+ },
+ {
+  "key": "Temaslı kişi",
+  "value": "Enfekte hayvan, çevre veya insanla o enfeksiyona yakalanma olasılığına yol açacak ilişki kurmuş kişi. Damlacık yoluyla bulaşan COVID-19 açısından, duyarlı kişiler enfekte kişilerle aynı ortamda maskesiz olarak 15 dakika bir arada bulunduğunda yakın temaslı olmaktadırlar."
+ },
+ {
+  "key": "Vaka fatalite hızı",
+  "value": "Belirli bir dönemde belirli bir hastalığa yakalananların ölüm oranı. Vaka fatalite hızı, salgınlarda alınacak önlemlerin kapsamını, taramaların etkinliğini ve tedavinin faydalarını ölçmede kullanılmaktadır."
+ },
+ {
+  "key": "Vaka inceleme formu",
+  "value": "Vakanın bazı demografik, epidemiyolojik, klinik ve diğer özelliklerini saptamak için hazırlanan veri toplama formu."
+ },
+ {
+  "key": "Ventilasyon",
+  "value": "Solunum işleminin ventilatör cihazına bağlı olarak sağlanması. Ventilasyonda temel amaç, oksijence zengin havanın akciğerlere verilmesi ve yüksek oranda karbondioksit içeren solunum havasının dışarı atılmasıdır."
+ },
+ {
+  "key": "Ventilatör",
+  "value": "Solunum sıkıntısı çeken hastalarda kullanılan, kişinin nefes alıp vermesini yapay olarak gerçekleştiren cihaz. Özellikle yoğun bakım ünitelerinde tedavinin önemli bir parçasını ventilatörler oluşturmaktadır."
+ },
+ {
+  "key": "Virülans",
+  "value": "Bir enfeksiyon etkeninin oluşturduğu hastalığın derecesi. Çiçek, kuduz ve tüberküloz etkenlerinin virülansı yüksektir, bu nedenle şiddetli hastalık tablolarına sebep olurlar. Su çiçeği etkeninin virülansı düşüktür, daha hafif hastalık tablolarına sebep olur."
+ },
+ {
+  "key": "Virüs",
+  "value": "Bir genetik materyali bulunan; hücre zarı, çekirdek, sitoplazma ve organelleri olmayan; yalnızca konak hücre içinde çoğalabilen, bazıları insanda hastalık yapan varlık. COVID-19’un etkeni Koronavirüsler ailesinden SARS-CoV-2 isimli bir virüstür. Virüs kaynaklı hastalıklara antibiyotikler etki etmez."
+ },
+ {
+  "key": "Zoonoz",
+  "value": "Hayvanlardan insanlara veya insanlardan hayvanlara doğal koşullar altında bulaşabilen hastalık. Virüs kaynaklı zoonozlar, insanlara direkt (ısırma, kontakt, solunum vb.) veya vektörler (sivrisinek, kene vb.) aracılığıyla bulaşır. Kuduz, domuz gribi ve COVID-19 zoonotik hastalıklara örnek olarak verilebilir."
+ }
+]
