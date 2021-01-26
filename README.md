@@ -3,6 +3,8 @@ Sample Turkish Covid-19 dictionary with Flutter
 
 Official source: [covid19.saglik.gov.tr](https://covid19.saglik.gov.tr/TR-66394/covid-19-sozlugu.html)
 
+![cover](doc/cover.gif)
+
 # LICENSE
 ```
 MIT License
